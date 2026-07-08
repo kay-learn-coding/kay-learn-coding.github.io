@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : ""Data Science & Business Student"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : #"Red Brick University"
   uri              : "https://kay-learn-coding.github.io"# URL
-  email            : "none@example.org" 
+  email            : #"none@example.org" 
 
   # Academic websites
   academia         : # URL
