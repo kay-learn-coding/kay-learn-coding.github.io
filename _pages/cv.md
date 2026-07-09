@@ -1,64 +1,56 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Professional Summary
+Analytical International Business & Data Science student with a robust IT foundation (BTEC Distinction*). Over 10 years of leadership experience in high-pressure operational environments. Specialized in optimizing operational processes through data analysis, resource management, and demand forecasting. 
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Technical Skills
+* **Programming Languages:** Python (Foundational), SQL (Querying & Design), JavaScript (Foundational), HTML/CSS.
+* **Data Analytics:** Advanced Excel Modeling, Data Visualization (Tableau, Matplotlib), Predictive Forecast Models.
+* **Methodologies:** Agile Workflows (Scrum), Systems Analysis, Software Development Life Cycle (SDLC).
+* **Core Competencies:** Data-driven Inventory Management, Cost Control, Demand Forecasting, Intercultural Leadership.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
+* **B.A. International Business & Data Science** | *Gisma University of Applied Sciences, Berlin* (12/2025 – Present)
+  * *Core Focus:* Statistical Modeling with Python, Relational Databases (SQL), and Business Analytics.
+  * *Key Learning:* Applying Machine Learning algorithms to global digital market trends.
+* **Extended BTEC National Diploma in IT (Level 3)** | *Salford City College, Manchester, UK* (09/2012 – 07/2014)
+  * *Grade:* Distinction\* Distinction\* Distinction\* (Highest possible achievement).
+  * *Core Modules:* Systems Analysis, Database Design, Software Development Methodologies, and Spreadsheet Modeling.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
+---
+
+## Professional Experience
+
+### Station Lead (Chef de Partie) | Soho House, Berlin
+*11/2025 – Present*
+* **Data-Driven Inventory Management:** Analyzed consumption data to optimize weekly procurement cycles and significantly reduce overhead costs.
+* **Process Standardization:** Spearheaded the onboarding and training of new personnel according to strict quality and data protocols.
+
+### Station Lead (Chef de Partie) | DoubleTree by Hilton, Manchester, UK
+*09/2024 – 08/2025*
+* **Resource Optimization:** Leveraged historical data for demand-based personnel and inventory planning during high-volume operations.
+* **Quality Management:** Led station operations under extreme pressure while maintaining high-tier KPIs and strict quality standards.
+
+### Station Lead (Chef de Partie) | Albert's Restaurant & Bar, Worsley, UK
+*06/2021 – 09/2024*
+* **Cost Control:** Conducted daily inventory audits and variance analyses to identify and mitigate supply chain discrepancies.
+* **Demand Forecasting:** Collaborated with senior management to adjust production volumes based on seasonal market trends and historical data.
+
+---
+
+## Certifications & Languages
+* **Languages:** English (Native), German (Beginner A2).
+* **Certifications:** Food Safety, Health & Safety, COSHH (Chemical), Allergen Awareness, Manual Handling, Fire Safety.
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
