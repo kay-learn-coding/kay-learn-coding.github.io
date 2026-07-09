@@ -16,3 +16,8 @@ SELECT c.customer_id, CONCAT(c.first_name, ' ', c.last_name) AS customer_name, S
 FROM customers c 
 INNER JOIN orders o ON c.customer_id = o.customer_id 
 GROUP BY c.customer_id HAVING SUM(o.total_amount) >= 200.00;
+
+### Project Video Walkthrough
+Click the video below for a live, technical demonstration of the system architecture, database normalization choices, and runtime performance tracking.
+
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://youtu.be/PZr8-hkPwmE)
