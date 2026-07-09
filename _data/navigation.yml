@@ -12,10 +12,7 @@ main:
     url: /
 
   - title: "Portfolio"
-    url: /Portfolio/    
-
-  # - title: "CV"
-  #   url: /cv-json/
+    url: /Portfolio/  
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "CV"
+    url: /cv/
