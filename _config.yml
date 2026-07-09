@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Kazeem Sola-Raji / Data Science Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kazeem Olalekan Sola-Raji"
 description              : &description "Kazeem's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://kay-learn-coding.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,10 +24,10 @@ repository               : "kay-learn-coding/kay-learn-coding.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kazeem Olalekan Sola-Raji"
   pronouns         : # example: "she/her"  
   bio              : ""Data Science & Business Student"
-  location         : "Earth"
+  location         : "Berlin, Germany"
   employer         : #"Red Brick University"
   uri              : "https://kay-learn-coding.github.io"# URL
   email            : #"none@example.org" 
